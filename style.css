@@ -10,3 +10,42 @@ body {
 }
 
 /* Add styles here! */
+h1.title {
+ 
+  margin-top: 70px;
+  margin-bottom: 60px;
+}
+
+div.card{
+ 
+  padding: 30px;
+  margin-top: 60px;
+  padding-right: 200px;
+  width : 100%;
+
+  
+  background-color: hsl(0deg, 0%, 60%);
+}
+card,p{
+  margin-left: 10%;
+  height: 30x;
+  background-color: aliceblue;
+}
+
+div.intro-chunk{
+  margin-inline-start: 10%;
+  padding: 1px;
+  margin-top: 60px;
+  width: 290px;
+}
+h2.indented-heading {
+  
+  padding-top: 25px;
+  background-color: hsl(45deg, 100%, 50%);
+  border-top: 5px;
+  border-bottom-color: hsl(45deg, 100%, 40%);
+  height: 80px;
+  margin-left: -30px;
+  padding-left: 30px;
+  width: 400px
+}
